@@ -4,7 +4,6 @@
 /**
  * char *_strdup - a function that returns pointer
  * @str: string to be copied
- * @malloc: use to obtain memory
  * Return: NULL if str is NULL or a pointer if its successful
  */
 
